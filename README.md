@@ -3,7 +3,7 @@ A website dedicated to facilitating animal rescue operations and raising awarene
 
 🐾 **About the Project**
 This project aims to support animal rescue initiatives by providing a platform to:
-
+Help animals in need.
 Educate the community about animal rescue.
 Offer resources for animal shelters and volunteers.
 Simplify the process of reporting animal rescue cases.
